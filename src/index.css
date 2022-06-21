@@ -107,6 +107,7 @@ sup {
 
 img {
   border-style: none;
+  display: inline-block;
 }
 
 button,

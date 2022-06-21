@@ -5,6 +5,7 @@ const Wrapper = styled.div`
   border-radius: 10px;
   width: 90%;
   max-width: 350px;
+  box-shadow: 0px 12px 20px rgba(0, 0, 0, 0.1);
 
   form {
     display: flex;
